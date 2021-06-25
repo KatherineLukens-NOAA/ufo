@@ -30,6 +30,7 @@
 #include "ufo/filters/ObsDomainErrCheck.h"
 #include "ufo/filters/PerformAction.h"
 #include "ufo/filters/PoissonDiskThinning.h"
+#include "ufo/filters/PracticalBoundsCheck.h"
 #include "ufo/filters/PreQC.h"
 #include "ufo/filters/ProfileBackgroundCheck.h"
 #include "ufo/filters/ProfileConsistencyChecks.h"
